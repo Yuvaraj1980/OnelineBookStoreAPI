@@ -1,0 +1,14 @@
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.DAL\bin\Debug\OnelineBookStoreAPI.DAL.dll.config
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.DAL\bin\Debug\OnelineBookStoreAPI.DAL.dll
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.DAL\bin\Debug\OnelineBookStoreAPI.DAL.pdb
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.DAL\bin\Debug\EntityFramework.dll
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.DAL\bin\Debug\OnelineBookStoreAPI.Interfaces.dll
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.DAL\bin\Debug\OnelineBookStoreAPI.Interfaces.pdb
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.DAL\bin\Debug\EntityFramework.xml
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.DAL\obj\Debug\OnelineBookStoreAPI.DAL.csprojAssemblyReference.cache
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.DAL\obj\Debug\OnelineBookStoreAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.DAL\obj\Debug\OnelineBookStoreAPI.DAL.csproj.CopyComplete
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.DAL\obj\Debug\OnelineBookStoreAPI.DAL.dll
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.DAL\obj\Debug\OnelineBookStoreAPI.DAL.pdb

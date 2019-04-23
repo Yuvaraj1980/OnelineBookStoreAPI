@@ -1,0 +1,6 @@
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Interfaces\bin\Debug\OnelineBookStoreAPI.Interfaces.dll
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Interfaces\bin\Debug\OnelineBookStoreAPI.Interfaces.pdb
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Interfaces\obj\Debug\OnelineBookStoreAPI.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Interfaces\obj\Debug\OnelineBookStoreAPI.Interfaces.dll
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Interfaces\obj\Debug\OnelineBookStoreAPI.Interfaces.pdb
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Interfaces\obj\Debug\OnelineBookStoreAPI.Interfaces.csprojAssemblyReference.cache

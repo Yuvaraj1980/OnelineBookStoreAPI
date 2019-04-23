@@ -1,0 +1,17 @@
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\bin\Debug\OnelineBookStoreAPI.Services.dll
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\bin\Debug\OnelineBookStoreAPI.Services.pdb
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\bin\Debug\AutoMapper.dll
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\bin\Debug\OnelineBookStoreAPI.DAL.dll
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\bin\Debug\OnelineBookStoreAPI.Interfaces.dll
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\bin\Debug\System.ValueTuple.dll
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\bin\Debug\OnelineBookStoreAPI.DAL.pdb
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\bin\Debug\OnelineBookStoreAPI.DAL.dll.config
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\bin\Debug\OnelineBookStoreAPI.Interfaces.pdb
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\bin\Debug\AutoMapper.pdb
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\bin\Debug\AutoMapper.xml
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\bin\Debug\System.ValueTuple.xml
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\obj\Debug\OnelineBookStoreAPI.Services.csprojAssemblyReference.cache
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\obj\Debug\OnelineBookStoreAPI.Services.csproj.CoreCompileInputs.cache
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\obj\Debug\OnelineBookStoreAPI.Services.csproj.CopyComplete
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\obj\Debug\OnelineBookStoreAPI.Services.dll
+C:\Users\SUS\source\repos\OnelineBookStoreAPI\OnelineBookStoreAPI.Services\obj\Debug\OnelineBookStoreAPI.Services.pdb
